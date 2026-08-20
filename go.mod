@@ -1,6 +1,7 @@
 module sha256-visualizer
 
-go 1.26
+go 1.26.6
+toolchain go1.26.6
 
 require github.com/hajimehoshi/ebiten/v2 v2.9.9
 
