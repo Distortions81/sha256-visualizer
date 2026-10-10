@@ -2,7 +2,7 @@ module sha256-visualizer
 
 go 1.26.6
 
-require github.com/hajimehoshi/ebiten/v2 v2.10.3
+require github.com/hajimehoshi/ebiten/v2 v2.10.5
 
 require (
 	github.com/ebitengine/gomobile v0.0.0-20260820040257-d11f821a26a6 // indirect
